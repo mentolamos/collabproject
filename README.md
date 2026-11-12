@@ -1,4 +1,4 @@
-﻿# 🚌 ayaw ko nan
+﻿# 🚌 BUSYS BUS Management System
 
 > A comprehensive Bus Management and Reservation System for modern bus operations.
 
